@@ -1,4 +1,6 @@
-package entity;
+package use_case;
+
+import entity.User;
 
 import java.time.LocalDateTime;
 

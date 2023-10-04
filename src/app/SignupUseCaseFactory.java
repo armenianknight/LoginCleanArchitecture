@@ -3,7 +3,7 @@ package app;
 import data_access.FileUserDataAccessObject;
 import data_access.UserSignupDataAccessInterface;
 import entity.CommonUserFactory;
-import entity.UserFactory;
+import use_case.UserFactory;
 import interface_adapter.*;
 import use_case.SignupInputBoundary;
 import use_case.SignupInteractor;

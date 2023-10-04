@@ -2,7 +2,6 @@ package use_case;
 
 import data_access.UserSignupDataAccessInterface;
 import entity.User;
-import entity.UserFactory;
 
 import java.time.LocalDateTime;
 

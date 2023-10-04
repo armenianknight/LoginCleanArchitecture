@@ -1,5 +1,7 @@
 package entity;
 
+import use_case.UserFactory;
+
 import java.time.LocalDateTime;
 
 public class CommonUserFactory implements UserFactory {
